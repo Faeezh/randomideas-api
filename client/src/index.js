@@ -9,3 +9,7 @@ const ideaForm = new IdeaForm();
 ideaForm.render();
 new IdeaList();
 
+
+
+// const modal = new Modal();
+// const ideaList = new IdeaList();
